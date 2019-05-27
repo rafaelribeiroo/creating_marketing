@@ -1,0 +1,43 @@
+Construção de Relacionamento
+	É possível capturar valor sem se preocupar com relacionamento
+	Mas é importante construir e gerenciar relacionamentos duradouros e lucrativos
+
+Muitas empresas utilizam o conceito
+
+	Customer Equity: É o valor capturado ao longo do tempo de todos os clientes da empresa.
+	Ex: Minha meta é vender meu produto (controle), se eu te vender eu terei capturado o valor, mas eu preciso manter contato. Caso eu lance uma nova versão desse controle, posso te vender pilhas posteriormente também...
+
+Tipos de consumidores
+
+	Estranho: Fidelidade e lucratividade baixas. Ex: Você está com sede e compra uma garrafa de água no semáforo, quando faltar água em casa eu não irei lá especificamente.
+	Borboleta: Fidelidade curta porém de grande lucratividade. Ex: Fui viajar e entro em uma loja para comprar uns mimos, lembranças do local, não pretendo retornar pois já comprei o que desejava.
+	Marisco: Fidelidade alta e baixa lucratividade. Ex: Tenho uma conta corrente em um banco e não faço movimentações, ás vezes nem o suficiente para suprir o gasto deles em armazenar e guardar meu financeiro (mas isso é meio balela).
+	Melhor amigo: Lucratividade e fidelidade altas. Ex: No basquete, quando alguém é fanático, melhor amigo da marca, todos os times são marcas.
+
+A Harley-Davidson divide seus consumidores entre mariscos e melhores amigos. Mariscos porque quem compra uma vez não tem vontade de trocar (dura muito) e melhores amigos por trocar por uma mais recente a cada período de tempo.
+
+7 Dicas para se construir um bom relacionamento
+	
+	01. Forneça uma boa experiência
+	Se não, o seu cliente vai nas redes sociais falar mal de você (tekpix), e você não poderá fazer nada para prejudicar um consumidor dizendo a verdade.
+
+	02. Conheça bem o seu cliente
+	Ainda mais com a tecnologia que temos hoje, tais quais: algoritmos, IA, big data... fica mais fácil conseguir entender seu cliente.
+
+	03. Segmentação é muito importante
+	Você já sabe a quem você vai atender, desse "universo" que irá atender há "microuniverso", segmentos diferentes dentro de um próprio segmento. Por exemplo, para um determinado produto você pode criar campanhas específicas para homens, mulheres, para pessoas mais velhas, mais novas, somos cientes que a linguagem é um pouco diferente e não se trata de preconceito, se trata de falar com a pessoa de acordo com o padrão que ela se comporta. (Netflix: Stranger Things)
+
+	04. Emoções vendem bem
+	A empresa que mais se destaca nessa seção certamente é a Disney, os funcionários são encorajados a te proporcionar boas experiências, às vezes cortar uma fila, se notarem que está chateado te dão um sorvete, é impressionante o tratamento.
+
+	05. Seu público faz parte da criação
+	Seu público cria conteúdo até mais que você. Independente da sua opinião, do que você vai tratar de relacionamento com o seu cliente, ele pode e vai criar conteúdo em relação a isso.
+
+	06. Incentivar o retorno
+	São os conceitos de recorrência e o capturar valor a longo prazo, muitas empresas não pensavam e agora estão aderindo.
+	Ex: Adobe antes vendia os softwares: "Premiere", "PS" e agora estão com um plano de assinatura, você usa os programas que precisar, quantas vezes quiser, em até 2 máquinas; planos para professores e alunos.
+
+	07. Monitore resultados
+	Não adianta nada você tentar criar um relacionamento com seu cliente se você não monitorar o que está acontecendo, será que aquilo que estou oferecendo pro cliente está realmente sendo consumido? Por exemplo, ao mandar panfleto e/ou e-mail marketing está surtindo efeito? Estão comprando? Se não, de nada adianta.
+	Google analytics, Sugar (CRM) e Mautic são valiosos.
+	
