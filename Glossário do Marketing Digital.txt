@@ -1,0 +1,17 @@
+Principais termos que aplicam ao marketing digital.
+
+Verbetes →
+	
+	Landing page: Basicamente, uma página que foi especialmente modelada para direcionar o tráfego para algum objetivo que você tenha, suas principais landing pages serão com o objetivo de venda ou aquisição de leads.
+	Above the fold: A informação que será exibida para o usuário antes mesmo dele rolar a página, muito importante, pois, "você não tem uma segunda chance para causar uma boa primeira impressão."
+	Under the fold: Quando você rola a página até o rodapé.
+	Call to action: Chamando o usuário a fazer alguma ação.
+		> Entreguei uma informação interessante;
+		> O usuário se interessou;
+		> Aí sim, para continuar a navegação, eu coloco um ou mais call to action;
+	Homepage: É a página que abre a partir do momento em que coloca o domínio do meu site no navegador.
+	Entry popup: Uma janela sobreposta, normalmente a porção superior do site (ou above the fold), fica escurecida ou esmaecida.
+	Exit popup: Ao mover o mouse para a barra superior no navegador, aparece uma janela te oferecendo algo (em alguns casos, mostram os produtos no carrinho de compras ou os que já visualizou previamente)
+	Squeeze page: Capturar as informações básicas de contato normalmente oferecendo algo em troca. Ex: um e-book, um vídeo etc.
+		Mas uma landing page não pode fazer isso?
+		Sim, pode. Uma landing pode ser uma squeeze se o objetivo for capturar leads, mas não posso dizer que toda landing page é uma squeeze porque esse nem sempre é o objetivo.
