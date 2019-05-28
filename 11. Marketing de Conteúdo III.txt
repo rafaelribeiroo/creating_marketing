@@ -1,0 +1,105 @@
+Pra que é, pra que serve e como usar sua PERSONA?
+
+Comparação persona e público-alvo:
+	São semelhantes com diferenças fundamentais!
+
+	Público-alvo: Mais genérico, grupo de pessoas que tem características específicas em comum e são exatamente as pessoas que você quer atingir
+	Persona: Mais específico, mais detalhada, no perfil de uma persona eu incluo coisas que não vão no público-alvo, tais como: comportamento, objetivos, problemas, hábitos.
+
+Definindo-os:
+
+	Público-alvo
+		- Sexo;
+		- Idade entre;
+		- Nível escolar;
+		- Região Sudeste/Sul/Norte/Oeste;
+		- Renda entre;
+
+	Persona
+		- Nome exatamente;
+		- Idade exata;
+		- Paulistano;
+		- Solteiro;
+		- Mora com os pais;
+		- Graduando em TI;
+		- Bolsa de R$;
+		- Paga R$ de faculdade;
+		- Tem 25 amigos com o mesmo perfil;
+		- Quer virar desenvolvedor front-end;
+		- Gosta de games;
+		- Usa muita rede social;
+		- Ouve música/podcast;
+		- Prefere aprender vendo vídeos;
+		- Assiste pelo computador;
+		- Dificuldades em programação;
+		- Compra produtos pelo preço;
+		- Tem medo de não conseguir emprego após a faculdade;
+
+		O esquema é fazer 4 personas diferentes uma da outra.
+
+Persona: São representações fictícias dos meus clientes ideais. Incluem dados demográficos, comportamentais, além de considerar sua história, motivações, objetivos, desafios e preocupações.
+	Uma persona não é traçada com uma entrevista, mas várias.
+
+Como te ajuda?
+	> Que tipo de conteúdo produzir?
+		Conteúdo tecnológico
+	> Qual é o estilo e a linguagem a ser usados?
+		Em vídeo de uma maneira mais descontraída
+	> Quais assuntos abordar?
+		Qual era o problema principal dos alunos
+	> Quais os formatos favoritos?
+	> Como buscam conteúdo
+
+Sugestão de questionário
+
+	Trabalho:
+	> Qual é seu cargo?
+	> Qual é a sua principal atividade?
+	> Qual a sua renda média?
+	> Como medir sua performance?
+	> Qual é a sua rotina?
+	> Quais são as habilidades mais necessárias?
+	>  Que ferramentas você mais usa?
+
+	Empresa:
+	> Qual é o segmento principal?
+	> Qual é o tamanho da empresa?
+	> Onde você quer chegar dentro da empresa?
+
+	Objetivos:
+	> Quais são suas principais responsabilidades?
+	> Quais são seus principais objetivos?
+	> Pra você, o que é ser bem sucedido?
+	> O que você tem feito pra atingir seus objetivos?
+
+	Desafios:
+	> Quais são os maiores desafios no seu trabalho?
+	> Quais são os maiores problemas que você encontra para atingir seus objetivos?
+	> Como você costuma lidar com essas barreiras?
+
+	Informação:
+	> Como você aprende novas habilidades?
+	> Quais são as principais publicaões que você consome?
+	> Quais são seus formatos preferidos de conteúdo?
+	> Quais são as redes sociais que você faz parte?
+	> Qual é a frequência de uso?
+
+	Pessoal:
+	> Idade, nacionalidade, família, estado civil, filhos etc
+	> Conte sua história de vida resumida
+	> Descreva seu histórico educacional
+	> Conte seu histórico profissional
+
+	Hábitos:
+	> Onde você mais faz compra?
+	> Com que frequência você compra online?
+	> Quais são os principais fatores que definem sua compra?
+	> Fez pesquisas antes de comprar? Como? Com quem?
+	> Costuma confiar em sites/lojas menos conhecidas?
+
+Dicas na hora de montar o perfil da sua persona:
+
+	> Evite perguntar coisas desnecessárias
+	> Crie quantas personas quiser, mas não exagere
+		(quero criar pra 20 personas diferentes, voce nao vai conseguir agradar nem a metade)
+	> Nunca diga "eu acho que" na hora de criar uma persona
