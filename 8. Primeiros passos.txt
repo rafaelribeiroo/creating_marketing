@@ -1,0 +1,50 @@
+Vimos previamente os princípios do Marketing.
+	Agora, qual a diferença pro Digital?
+		Nenhuma, pois seguem todos os princípios:
+			> Entender necessidades;
+			> Elaborar estratégia;
+			> Programa de marketing;
+			> Construir relacionamento;
+			> Capturar valor;
+
+Como isso se adapta hoje, no marketing digital?
+
+			Correlação Antigo x Atual
+Outdoor									Banner em sites
+Anúncios em jornais/revistas 			Conteúdo em blogs ou redes sociais
+Spot de rádio							Podcast
+Anúncios da tv							Youtube
+Panfletos								Email marketing
+
+E quais as vantagens?
+
+	01. Métricas
+	Por exemplo, a empresa que você solicitou um outdoor te diz: "informa métricas?" Eles conseguem te dizer quantas pessoas que viram o anúncio compraram seu produto? Agora, com um banner bem elaborado, um podcast todo monitorado, o YouTube te passando a conta e o e-mail marketing te dizendo quando as pessoas abriram o e-mail e dessas quantas colocaram um produto no carrinho, tudo isso pode ser medido. Tudo é mensurável, imagina mandar refazer um outdoor, é bem mais simples um banner.
+
+	02. Agilidade
+	Você consegue começar uma campanha e no meio dela, se você estiver vendo que não tá funcionando muito bem, fica simples fazer alterações, como o exemplo acima, imagina refazer um outdoor.
+
+	03. Segmentação
+	Eu consigo pegar as campanhas e ofertá-las a públicos diferentes, heterogêneo. Através de um algoritmo podemos dizer que o público A prefere a campanha B. Tudo isso pode ser automatizado através do Mautic, e não tem barreiras. 
+		Exemplos: 
+		> Ao divulgar na tv, você irá atingir apenas quem tem certo canal televisivo.
+		> Em uma rádio tem os bairros, os estados e quanto maior a abrangência mais caro fica.
+		> Panfletar você consegue espalhar apenas a algumas ruas.
+		Antes você só falava, agora você é obrigado a falar e a ouvir.
+
+	04. Custo
+	Para fazer um anúncio na tv, um outdoor, contratar uma agência para fazer sua arte fica muito caro e o marketing digital reduziu esses custos e popularizou as ferramentas de marketing.
+		Mas tenho uma página no face...
+		Não resolverá o problema, pois essas ferramentas detém o poder sobre o seu conteúdo (elas podem, por exemplo, não mostrar para todo mundo)
+
+Marketing Digital
+	
+	Conteúdo → Criação de site, produção de blog, canal no youtube;
+	Busca → Ferramentas de busca. SEO & SEM. Otimizar seu site para aparecer melhor nos mecanismos de busca (crawler);
+	ADS → Rede de display para exibir banners, pop-up;
+	CRM → Ferramenta de gestão de relacionamento com o cliente, se é um bom cliente etc;
+	Analytics → Medir recurso, no banner: quantas pessoas viram/visitaram;
+	Mobile → Temos muito pesquisando por produtos em dispositivos móveis.
+
+
+
