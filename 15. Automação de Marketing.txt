@@ -1,17 +1,25 @@
 Automação de Marketing
 
-	Suponhamos que estamos abrindo uma empresa e temos uma base de pessoas que queremos relacionar, através do Mautic nós conseguimos automatizar um trabalho árduo que seria feito lentamente manualmente, do e-mail que eu enviei pra tal pessoa, quantas clicaram? Quantas visualizaram tal conteúdo e como eu otimizo para que elas possam se interessar ainda mais.
+	Suponhamos que estamos abrindo uma empresa e temos uma base de pessoas que
+    queremos relacionar, através do Mautic nós conseguimos automatizar um
+    trabalho árduo que seria feito manualmente
+        > Sobre o e-mail que eu enviei pra tal pessoa, quantas clicaram?
+        > Quantas visualizaram tal conteúdo?
+        > Como eu otimizo para que elas possam se interessar ainda mais?
 
-	Objetivo Mautic, tenho 3 tipos de usuários a se trabalhar.
+Tenho 3 tipos de usuários a se trabalhar.
 
-		O que está quase comprando
-		O desinteressado
-		O que está +/-
+    > O que está quase comprando;
+	> O desinteressado;
+	> O que está +/-
 
-		Meu objetivo será fazer o que está quase comprando efetuar a compra, o que está desinteressado às vezes se interessar mais e o que está +/- chegar em um nível máximo, o Mautic me ajudará a chegar nesses pontos. E o melhor, automatizado.
+Meu objetivo será:
 
-	Porque Mautic?
+    Fazer o que está quase comprando efetuar a compra;
+    O que está desinteressado às vezes se interessar mais;
+    O que está +/- chegar em um nível máximo.
 
-		O melhor é que ele é 100% open-source. Posso utilizar sem fazer o download, online.
-	
+O Mautic me ajudará a chegar nesses pontos. E o melhor, automatizado.
 
+Porque Mautic?
+O melhor é que ele é open-source. Posso utilizar sem fazer o download, online.

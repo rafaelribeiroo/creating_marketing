@@ -1,23 +1,52 @@
 Formatos de Imagem
 
-	Imagem (Infográfico): Junta um pouco de texto e imagem, ex: infográfico porque ajudam nós a visualizar melhor as mensagens que são ricas, estatísticas. Elementos gráficos que ajudam você a disponibilizar um conteúdo agradável.
+	Imagem (Infográfico) → Junta um pouco de texto e imagem.
+    Ex: infográfico porque nos ajudam a visualizar melhor as mensagens que são
+    ricas, estatísticas. Elementos gráficos que ajudam você a disponibilizar
+    um conteúdo agradável.
 
-		OBS: Disponibilize seu site, e a medida que o tempo for passando você vai analisando pelo Google Analytics, se ele é mais consumido Web ou Mobile, então você vai remanejando, reposicionar conforme seu público-alvo consome, para agradá-lo da melhor forma possível. Tentativa e acerto, tentativa e erro.
+OBS: Disponibilize seu site, e a medida que o tempo for passando você vai
+analisando pelo Google Analytics, se ele é mais consumido Web ou Mobile,
+então você vai remanejando, reposicionar conforme seu público-alvo consome,
+para agradá-lo da melhor forma possível. Tentativa e acerto².
 
-	Imagem (Fotos): Tem a função de engajar, muitas pessoas têm a preguiça de ler, de ouvir. Uma leitura requer mais atenção, já a imagem dá uma mensagem mais direta, mais rápida, imediata.
+	Imagem (Fotos) → Tem a função de engajar, muitas pessoas têm a preguiça de
+    ler, de ouvir. Uma leitura requer mais atenção, já a imagem da uma
+    mensagem mais direta/rápida/imediata.
 
-	Imagem (Memes): Mais de compartilhamento, mas não quer dizer que você tem que lançar uma imagem de meme todo dia pois vai parecer desesperado, mas de vez em quando pode ser que dê certo.
+	Imagem (Memes) → Mais de compartilhamento, mas não quer dizer que você tem
+    que lançar uma imagem de meme todo dia pois vai parecer desesperado, mas
+    de vez em quando pode ser que dê certo.
 
-	Imagem (Post em redes sociais): Imagens, lembranças, branding, imagens com frases bonitas.
+	Imagem (Post em redes sociais) → Imagens/lembranças/branding.
 
-	Vídeo e Áudio (Podcast & Vídeo): Podcast serve mais pra quando você está em duas atividades, se você está trabalhando, pode ouvir um podcast tranquilamente.
+	Vídeo e Áudio (Podcast & Vídeo) → Podcast serve mais pra quando você está em
+    duas atividades, se você está trabalhando, pode ouvir um podcast
+    tranquilamente.
 
-	Vídeo e Áudio (Áudio Post): Qual a diferença entre áudio post e podcast?
+	Vídeo e Áudio (Áudio Post)
 
-		Áudio: Não é um formato tão popular quanto ao podcast, você entra na página tem um texto grande, você não quer ler porque está fazendo outra tarefa? Clica em áudio post e a página vai ler pra você.
+        Qual a diferença entre áudio post e podcast?
+		Áudio → Não é um formato tão popular quanto ao podcast, você entra na
+        página e depara um texto grande, você não quer ler porque está
+        fazendo outra tarefa? Clica em áudio post e a página vai ler
+        pra você.
 
-	Vídeo e Áudio (Tutorial e Review): Existe muito tutorial e review de produto, se você é uma empresa ou uma marca que precisa anunciar algum produto e sabe que tem canais que falam sobre o assunto, tenta entrar em contato com o canal, as vezes nem precisa pagar, só de enviar o produto (se for um objeto de desejo).
+	Vídeo e Áudio (Tutorial e Review): Existe muito tutorial e review de
+    produto, se você é uma empresa ou uma marca que precisa anunciar algum
+    produto e sabe que tem canais que falam sobre o assunto, tenta entrar
+    em contato com o canal, as vezes nem precisa pagar, só de enviar o
+    produto (se for um objeto de desejo).
 
-	Outros (SMS e Whatsapp): Têm muita empresa que estão tentando utilizar whatsapp para divulgar seus produtos, acaba por ser um pouco invasivo. Tenha consciência, você pode aproveitar aquele e-mail para tentar fazer um contato e a partir de uma resposta positiva, você desenvolver o contato e não ficar importunando as pessoas.
+	Outros (SMS e Whatsapp): Têm muita empresa que estão tentando utilizar
+    whatsapp para divulgar seus produtos, acaba por ser um pouco invasivo.
+    Tenha consciência, você pode aproveitar aquele e-mail para tentar fazer
+    um contato e a partir de uma resposta positiva, você desenvolve o
+    contato e não fica importunando as pessoas.
 
-	Outros (Games e Aplicativos): Têm empresas que fazem jogos, gameficação. Unha, pode criar um app pra cada vez que você for ganha uma "bolinha", ao completar X você ganha a próxima de graça. Ex: Stranger things criou um jogo, pois a série se passa em 80, o que tínhamos na época eram muitos jogos, não é barato, não é fácil, mas se conseguir aplicar da maneira correta.
+	Outros (Games e Aplicativos): Têm empresas que fazem jogos; pode criar um
+    app pra cada vez que você for ganha uma "bolinha", ao completar X bolinhas,
+    você ganha a próxima de graça.
+    Ex: Stranger things criou um jogo, pois a série se passa em 80, o que
+    tínhamos na época eram muitos jogos. Não é barato/fácil, mas se
+    conseguir aplicar da maneira correta.
